@@ -8,4 +8,3 @@ A clean, modular PDE solver for vanilla options under Black–Scholes featuring:
 - Richardson extrapolation & convergence study (accuracy vs runtime)
 - Example plots & unit tests
 
-> Design goal: production-quality clarity you can explain in an interview, with minimal code size and strong validation.
